@@ -117,7 +117,6 @@ class TodoList {
       throw new ReferenceError(`invalid index: ${index}`);
     }
   }
-  // rest of class needs implementation
 }
 
 module.exports = TodoList;
